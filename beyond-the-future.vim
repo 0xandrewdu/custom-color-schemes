@@ -86,7 +86,7 @@ let s:gb = {}
 
 " fill it with absolute colors
 let s:gb.dark0_hard  = ['#1d2021', 234]     " 29-32-33 NOT USED
-let s:gb.dark0       = ['#282828', 234]     " 40-40-40
+let s:gb.dark0       = ['#282828', 233]     " bg color
 let s:gb.dark0_soft  = ['#32302f', 236]     " 50-48-47 NOT USED
 let s:gb.dark1       = ['#3c3836', 237]     " 60-56-54
 let s:gb.dark2       = ['#504945', 239]     " 80-73-69
@@ -94,13 +94,14 @@ let s:gb.dark3       = ['#665c54', 241]     " 102-92-84
 let s:gb.dark4       = ['#7c6f64', 243]     " 124-111-100
 let s:gb.dark4_256   = ['#7c6f64', 243]     " 124-111-100
 
-let s:gb.gray_245    = ['#928374', 245]     " 146-131-116
+let s:gb.gray_245    = ['#928374', 61]     " comment color
 let s:gb.gray_244    = ['#928374', 244]     " 146-131-116
 
 let s:gb.light0_hard = ['#f9f5d7', 230]     " 249-245-215
 let s:gb.light0      = ['#fbf1c7', 229]     " 253-244-193 / 229
 let s:gb.light0_soft = ['#f2e5bc', 228]     " 242-229-188
-let s:gb.light1      = ['#ebdbb2', 188]     " 235-219-178 / 223 / default text color
+" default text color
+let s:gb.light1      = ['#ebdbb2', 152]     " white cyan / prev: 188 (white-grey blue)
 let s:gb.light2      = ['#d5c4a1', 229]     " 213-196-161 / 250
 let s:gb.light3      = ['#bdae93', 248]     " 189-174-147 / 248
 let s:gb.light4      = ['#a89984', 246]     " 168-153-132 / 246
@@ -109,13 +110,13 @@ let s:gb.light4_256  = ['#a89984', 246]     " 168-153-132 / 246
 " only this part is used in default vim on macOS
 " NOTE: hex values were never changed, see beyond-the-future-ref.vim for
 " originals
-let s:gb.bright_red     = ['#b52a5b', 146]     " 251-73-52
-let s:gb.bright_green   = ['#ff4971', 104]     " 184-187-38
-let s:gb.bright_yellow  = ['#8897f4', 108]     " 250-189-47
-let s:gb.bright_blue    = ['#bd93f9', 110]     " 131-165-152
-let s:gb.bright_purple  = ['#e9729d', 152]     " 211-134-155
-let s:gb.bright_aqua    = ['#f18fb0', 153]     " 142-192-124
-let s:gb.bright_orange  = ['#f1c4e0', 183]     " 254-128-25
+let s:gb.bright_red     = ['#b52a5b', 146]     " greyish indigo
+let s:gb.bright_green   = ['#ff4971', 104]     " indigo
+let s:gb.bright_yellow  = ['#8897f4', 68]      " dark pastel blue, prev: 108 (green)
+let s:gb.bright_blue    = ['#bd93f9', 110]     " muted blue
+let s:gb.bright_purple  = ['#e9729d', 141]     " purple, prev 152 (white cyan)
+let s:gb.bright_aqua    = ['#f18fb0', 153]     " pastel blue
+let s:gb.bright_orange  = ['#f1c4e0', 183]     " pinkish purple
 
 " NOTE: neutral is only used in nvim 
 let s:gb.neutral_red    = ['#b52a5b', 168]     " 204-36-29
