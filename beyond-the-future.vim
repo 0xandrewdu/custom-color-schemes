@@ -86,7 +86,7 @@ let s:gb = {}
 
 " fill it with absolute colors
 let s:gb.dark0_hard  = ['#1d2021', 234]     " 29-32-33 NOT USED
-let s:gb.dark0       = ['#282828', 234]     " bg color
+let s:gb.dark0       = ['#282828', 233]     " bg color 234 for solid dark grey 
 let s:gb.dark0_soft  = ['#32302f', 236]     " 50-48-47 NOT USED
 let s:gb.dark1       = ['#3c3836', 237]     " 60-56-54
 let s:gb.dark2       = ['#504945', 239]     " 80-73-69
@@ -116,7 +116,7 @@ let s:gb.bright_yellow  = ['#8897f4', 68]      " dark pastel blue, prev: 108 (gr
 let s:gb.bright_blue    = ['#bd93f9', 110]     " muted blue
 let s:gb.bright_purple  = ['#e9729d', 141]     " purple, prev 152 (white cyan)
 let s:gb.bright_aqua    = ['#f18fb0', 153]     " pastel blue
-let s:gb.bright_orange  = ['#f1c4e0', 183]     " pinkish purple
+let s:gb.bright_orange  = ['#f1c4e0', 37]     " prev 183 (pinkish purple)
 
 " NOTE: neutral is only used in nvim 
 let s:gb.neutral_red    = ['#b52a5b', 168]     " 204-36-29
