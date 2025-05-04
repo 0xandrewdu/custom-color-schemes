@@ -7,7 +7,7 @@ VSCode:
 Should suffice to copy the entire subfolder (in `vscode/`) to `.vscode/extensions` and reload the window before selecting the color scheme as usual. As of 5/4/25, only the text editor and file explorers have custom colors, since I never use VSCode's built in terminal.
 
 Vim:
-For Mac's default terminal, made by editing the 256 color palette values in Gruvbox (hex colors may not be accurate to the theme). Goes in `.vim/colors`
+For Mac's default terminal, made by editing the 256 color palette values in Gruvbox (hex colors may not be accurate to the theme). Goes in `.vim/colors`. (I usually use VSCode/Jupyter for Python, so the themes may be less expressive outside of C++.)
 
 Current:
 1) beyond-the-future.vim - based on the art from this playlist: https://www.youtube.com/watch?v=2uR-HUrZ1AE
