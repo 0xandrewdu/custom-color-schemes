@@ -20,7 +20,10 @@ add screenshots for jupyter
 upload terminal configs
 
 Gallery:
-![Beyond the Future for Vim, C++](img/vim-beyond-the-future-cpp.png)
+<figure>
+  <img src="img/vim-beyond-the-future-cpp.png" alt="Beyond the Future for Vim, C++" width="400"/>
+  <figcaption>Beyond the Future for Vim, C++</figcaption>
+</figure>
 ![Beyond the Future for Vim, Python](img/vim-beyond-the-future-py.png)
 ![Yae Miko for Vim, C++](img/vim-yae-miko-cpp.png)
 ![Yae Miko for Vim, C++](img/vim-yae-miko-py.png)
