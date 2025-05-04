@@ -25,17 +25,17 @@ Gallery:
   <div style="font-size: 0.9em; margin-top: 0.5em;">Beyond the Future for Vim, C++</div>
 </div>
 
-<figure>
+<div align="center">
   <img src="img/vim-beyond-the-future-py.png" alt="Beyond the Future for Vim, Python" width="750"/>
-  <figcaption>Beyond the Future for Vim, Python</figcaption>
-</figure>
+  <div style="font-size: 0.9em; margin-top: 0.5em;">Beyond the Future for Vim, Python</div>
+</div>
 
-<figure>
+<div align="center">
   <img src="img/vim-yae-miko-cpp.png" alt="Yae Miko for Vim, C++" width="750"/>
-  <figcaption>Yae Miko for Vim, C++</figcaption>
-</figure>
+  <div style="font-size: 0.9em; margin-top: 0.5em;">Yae Miko for Vim, C++</div>
+</div>
 
-<figure>
+<div align="center">
   <img src="img/vim-yae-miko-py.png" alt="Yae Miko for Vim, Python" width="750"/>
-  <figcaption>Yae Miko for Vim, Python</figcaption>
-</figure>
+  <div style="font-size: 0.9em; margin-top: 0.5em;">Yae Miko for Vim, Python</div>
+</div>
