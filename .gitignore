@@ -1,0 +1,37 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Node/npm
+node_modules/
+package-lock.json
+npm-debug.log*
+
+# VSIX extension package
+*.vsix
+
+# Compiled output (optional, if you generate anything)
+dist/
+out/
+
+# Logs and temp
+*.log
+*.tmp
+*.swp
+
+# OS-generated files
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# VSCode theme dev
+*.vsixmanifest
+*.nupkg
