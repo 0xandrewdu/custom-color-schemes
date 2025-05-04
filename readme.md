@@ -21,9 +21,21 @@ upload terminal configs
 
 Gallery:
 <figure>
-  <img src="img/vim-beyond-the-future-cpp.png" alt="Beyond the Future for Vim, C++" width="400"/>
+  <img src="img/vim-beyond-the-future-cpp.png" alt="Beyond the Future for Vim, C++" width="750"/>
   <figcaption>Beyond the Future for Vim, C++</figcaption>
 </figure>
-![Beyond the Future for Vim, Python](img/vim-beyond-the-future-py.png)
-![Yae Miko for Vim, C++](img/vim-yae-miko-cpp.png)
-![Yae Miko for Vim, C++](img/vim-yae-miko-py.png)
+
+<figure>
+  <img src="img/vim-beyond-the-future-py.png" alt="Beyond the Future for Vim, Python" width="750"/>
+  <figcaption>Beyond the Future for Vim, Python</figcaption>
+</figure>
+
+<figure>
+  <img src="img/vim-yae-miko-cpp.png" alt="Yae Miko for Vim, C++" width="750"/>
+  <figcaption>Yae Miko for Vim, C++</figcaption>
+</figure>
+
+<figure>
+  <img src="img/vim-yae-miko-py.png" alt="Yae Miko for Vim, Python" width="750"/>
+  <figcaption>Yae Miko for Vim, Python</figcaption>
+</figure>
