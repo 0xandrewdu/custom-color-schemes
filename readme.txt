@@ -16,4 +16,5 @@ Current:
 Would also recommend using additional plugins (e.g. https://github.com/bfrg/vim-c-cpp-modern) to get better grouping for coloring.
 
 TODO:
-add screenshots and upload terminal configs as well
+add screenshots for jupyter
+upload terminal configs
