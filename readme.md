@@ -18,3 +18,9 @@ Would also recommend using additional plugins (e.g. https://github.com/bfrg/vim-
 TODO:
 add screenshots for jupyter
 upload terminal configs
+
+Gallery:
+![Beyond the Future for Vim, C++](img/vim-beyond-the-future-cpp.png)
+![Beyond the Future for Vim, Python](img/vim-beyond-the-future-py.png)
+![Yae Miko for Vim, C++](img/vim-yae-miko-cpp.png)
+![Yae Miko for Vim, C++](img/vim-yae-miko-py.png)
