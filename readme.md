@@ -20,22 +20,22 @@ add screenshots for jupyter
 upload terminal configs
 
 Gallery:
-<div align="center">
+<div align="center" style="margin-bottom: 2em;">
   <img src="img/vim-beyond-the-future-cpp.png" alt="Beyond the Future for Vim, C++" width="600"/>
   <div style="font-size: 0.9em; margin-top: 0.5em;">Beyond the Future for Vim, C++</div>
 </div>
 
-<div align="center">
+<div align="center" style="margin-bottom: 2em;">
   <img src="img/vim-beyond-the-future-py.png" alt="Beyond the Future for Vim, Python" width="600"/>
   <div style="font-size: 0.9em; margin-top: 0.5em;">Beyond the Future for Vim, Python</div>
 </div>
 
-<div align="center">
+<div align="center" style="margin-bottom: 2em;">
   <img src="img/vim-yae-miko-cpp.png" alt="Yae Miko for Vim, C++" width="600"/>
   <div style="font-size: 0.9em; margin-top: 0.5em;">Yae Miko for Vim, C++</div>
 </div>
 
-<div align="center">
+<div align="center" style="margin-bottom: 2em;">
   <img src="img/vim-yae-miko-py.png" alt="Yae Miko for Vim, Python" width="600"/>
   <div style="font-size: 0.9em; margin-top: 0.5em;">Yae Miko for Vim, Python</div>
 </div>
