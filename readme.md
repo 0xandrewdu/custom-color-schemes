@@ -41,6 +41,6 @@ Gallery:
 </div>
 
 <div align="center" style="margin-bottom: 2em;">
-  <img src="img/vscode-beyond-the-future-cpp-and-py.png" alt="VSCode BTF Preview" width="600"/>
+  <img src="img/vscode-beyond-the-future-cpp-and-py.png" alt="VSCode BTF Preview" width="1200"/>
   <div style="font-size: 0.9em; margin-top: 0.5em;">Beyond the Future for VSCode, Python/C++</div>
 </div>
