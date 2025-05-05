@@ -1,0 +1,22 @@
+{
+  "name": "beyond-the-future",
+  "displayName": "Beyond the Future",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "andrew-du",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "beyond-the-future",
+        "uiTheme": "vs-dark",
+        "path": "./themes/beyond-the-future-color-theme.json"
+      }
+    ]
+  }
+}
