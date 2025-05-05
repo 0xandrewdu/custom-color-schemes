@@ -1,7 +1,7 @@
 {
 	"name": "beyond-the-future",
 	"colors": {
-		"editor.background": "#18181b",
+		"editor.background": "#1c1c1e",
 		"editor.foreground": "#dddcf3",
 		"activityBarBadge.background": "#4351e6",
 		"editorBracketHighlight.foreground6": "#cdaade",
