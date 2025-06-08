@@ -15,7 +15,6 @@ Would also recommend using additional plugins (e.g. https://github.com/bfrg/vim-
 Note: I usually work with night shift on, so the colors may be harsher than intended without the redshift.
 
 TODO:
-- add screenshots for jupyter
 - upload terminal configs
 
 Gallery:
