@@ -15,7 +15,7 @@ Would also recommend using additional plugins (e.g. https://github.com/bfrg/vim-
 Note: I usually work with night shift on, so the colors may be harsher than intended without the redshift.
 
 TODO:
-- upload terminal configs
+- upload terminal configs, update vscode themes to post-summer25 palettes
 
 Gallery:
 <div align="center" style="margin-bottom: 2em;">
